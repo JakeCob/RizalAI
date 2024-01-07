@@ -1,0 +1,4 @@
+.env
+experiment_scripts/02_rizal_ai_panel.py
+*.db
+notebooks/Autogen/__pycache__/panel.cpython-39.pyc

@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Panel Serve",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "serve",
+                "panel_script.py",
+                "--autoreload",
+                "--show"
+            ],
+            "justMyCode": True
+        }
+    ]
+}
